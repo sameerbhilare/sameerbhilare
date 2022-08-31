@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-:point_right: I am a **Full Stack Developer** with experience in different technologies. 
+:point_right: I am a **Full Stack Developer** with who loves to code.:blush:
 
-:point_right: You can checkout my portfolio right here [Sameer Bhilare | Full Stack Developer](https://sameerbhilare.github.io)
+:point_right: You can checkout my portfolio website right here [Sameer Bhilare | Full Stack Developer](https://sameerbhilare.github.io)
 
 <!--
 **sameerbhilare/sameerbhilare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
