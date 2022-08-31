@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 :point_right: I am a **Full Stack Developer** with experience in different technologies. 
+
 :point_right: You can checkout my portfolio right here [Sameer Bhilare | Full Stack Developer](https://sameerbhilare.github.io)
 
 <!--
