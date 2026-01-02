@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:point_right: I am a **Full Stack Developer** who loves to code.:blush:
+:point_right: I am a **Full Stack Developer** who loves to code. :blush:
 
 :point_right: You can checkout my portfolio website right here [Sameer Bhilare | Full Stack Developer](https://sameerbhilare.github.io)
 
